@@ -4,7 +4,7 @@ import main as bonjour
 
 
 def main():
-    bonjour.print_hi('Ostiguy R. alias RO ')
+    bonjour.print_hi('Ostiguy R. init RO que je change')
     bonjour.compter(8)
 
 
