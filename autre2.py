@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
-from main import print_hi
+from main import bonjour
 from main import compter
 
 
 def main():
-    print_hi('Ostiguy R.')
+    bonjour('Ostiguy R.')
     compter(3)
 
 
